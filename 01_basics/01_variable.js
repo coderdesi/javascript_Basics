@@ -2,7 +2,7 @@
 
 // alert(3+3) // we are using node js , not broser
 
-console.log(2 + 3);
+// console.log(2 + 3);
 
 // Data Types in JavaScript
 
@@ -12,3 +12,17 @@ console.log(2 + 3);
 // boolean
 // null
 // undefined
+
+// ----------------------------------------------
+// conversion
+let value = 3;
+let negValue = -value;
+
+console.log(negValue);
+
+// console.log(+true);
+
+// console.log(+"");
+// console.log(-true);
+
+// console.log("2" < 1);
